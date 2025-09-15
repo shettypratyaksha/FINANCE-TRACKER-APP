@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FINANCE-TRACKER-APP/static/css/main.71a45312.css",
+    "main.js": "/FINANCE-TRACKER-APP/static/js/main.94e488e5.js",
+    "static/media/c.png": "/FINANCE-TRACKER-APP/static/media/c.415d819173a39f5ab0f1.png",
+    "static/media/a.png": "/FINANCE-TRACKER-APP/static/media/a.a1b2125df587209ccd2e.png",
+    "static/media/b.png": "/FINANCE-TRACKER-APP/static/media/b.e2adda8959712987bbb5.png",
+    "index.html": "/FINANCE-TRACKER-APP/index.html",
+    "main.71a45312.css.map": "/FINANCE-TRACKER-APP/static/css/main.71a45312.css.map",
+    "main.94e488e5.js.map": "/FINANCE-TRACKER-APP/static/js/main.94e488e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71a45312.css",
+    "static/js/main.94e488e5.js"
+  ]
+}
